@@ -1,0 +1,18 @@
+say[0] = "Joy is looking at the floor"
+say[1] = "Joy is looking at the wall"
+say[2] = "Joy wants to buy..."
+say[3] = "Joy wants to decorate..."
+say[4] = "Joy wants to throw away this crap"
+say[5] = "Joy wants to make money!"
+say[6] = "Joy does nothing"
+say[7] = "Joy wants the"
+say[8] = "Joy is working! And Joy grows older"
+say[9] = "Joy just bought "
+say[10] = "Joy does not have enought money"
+from[0] ="Amazon"
+from[1] ="Local retail store"
+from[2] ="ebay"
+
+comment[0] ="Fancy"
+comment[1] ="Cheap"
+ 
